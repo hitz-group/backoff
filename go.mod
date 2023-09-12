@@ -1,3 +1,3 @@
-module github.com/hitz-group/backoff/v4
+module github.com/oolio-group/backoff/v4
 
 go 1.18
